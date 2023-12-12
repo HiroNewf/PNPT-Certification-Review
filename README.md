@@ -1,7 +1,5 @@
 # PNPT-Certification-Review
-## Certification Overview
-The PNPT (Professional Network Penetration Tester) is a certification by TCM Security.                                                                                                                           
-From TCM Security's site:                                                                                                                                                                                        
+## Certification Overview                                                                                                                                                                                     
 The PNPT certification exam is a one-of-a-kind ethical hacking certification exam that assesses a student’s ability to perform an external and internal network penetration test at a professional level.  Students will have five (5) full days to complete the assessment and an additional two (2) days to write a professional report.
 
 In order to receive the certification, a student must:
